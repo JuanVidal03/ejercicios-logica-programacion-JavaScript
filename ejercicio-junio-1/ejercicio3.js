@@ -12,7 +12,7 @@ function parOImpar(num) {
         }
         
     } else {
-        alert('Asegurate que los valores sean numericos!');
+        alert('Asegurate que el valor sea numerico!');
     }
 }
 
